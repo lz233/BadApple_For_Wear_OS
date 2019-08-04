@@ -27,7 +27,7 @@ Play bad apple on smart watch.
 # Success
 ```
 
-3.enjoy it!
+3.Turn on the option of donot lock the screen, and enjoy it!
 ## Build by yourself
 1.Clone with HTTPS/SSH or download zip.
 
