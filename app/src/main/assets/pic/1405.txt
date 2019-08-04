@@ -1,0 +1,100 @@
+MMMMMMMMMNNHQ$OOC7>!:!::-..          ..                                                             
+MMMMMMMMMNNHHQ$OC?7>!:--;;.         ...                                                             
+MMMMMMMMMNNHHQ$OC?7>!::-;;.         ...                                                             
+MMMMMMMMMNNHHQ$OC?7>!!:--;.         ....                                                            
+MMMMMMMMMMNHHQ$OC?7>!!:--;..        .....                                                           
+MMMMMMMMMMNNHQ$$OC?>>!::-;;.        .....                                                           
+MMMMMMMMMMNNHQQ$OC?7>!!:--;..       ......                                                          
+MMMMMMMMMMNNHHQ$OC?7>!!:--;..       ......                                                          
+MMMMMMMMMMNNHHQ$$OC77>!::-;..       ..;...                                                          
+MMMMMMMMMMMNNHQ$$OC?7>!::-;;..     ..;;...                                                          
+MMMMMMMMMMMNNHQQ$OC?7>!!:--;.........;;...                                                          
+MMMMMMMMMMMNNHHQ$OC?77>!::-;;.......;;;;..                                                          
+MMMMMMMMMMMNNHHQ$$OC?7>!::-;;...;;;;;;;;...                                                         
+MMMMMMMMMMMNNHHQQ$OC?7>!!:--;;;;;;;;;;;;;..                                                         
+:-7QMMMMMMMNNNHQQ$OC?7>!!::--;;;;;;;;;;;;..                                                         
+    OMMMMMMMNNHQQ$OCC?7>!!:---------;;;;;..                                                         
+     $MMMMMMNNHQQ$OOC?7>!!:::-------;;;;;..                                                         
+     >MMMMMMNNHQQ$OOC?7>>!!:::::::---;;;;..                                                         
+     .MMMMMMNNHQQ$OOC??7>!!!!!:::::--;;;;...                                                        
+     !7NMMMMNNHQQ$OOCC?7>>>!!!!!!:::--;;;;.                                                         
+       NMMMMNNHQQ$$OCC?7>>>!!!!!!!::---;;;.                                                         
+       .MMMMMNHHQ$$OCC?77>>>>>>>!!!::---;;.                                                         
+        MMMMMNNHQQ$OCC?777>>>>>>>>!!::---;;.                                                        
+        CMMMNNNHHQ$OCC?777>>>>>>>>>!!::---;.                                                        
+       !MMMNNNNHHQ$OOC?77777777>>>>!!::---;.                                                        
+       HMMMNNNNNHQ$$OC?7777777777>>>!!::--;.                                                        
+       ?MMMNNNNNHQQ$OC??7777777777>>!!::--;.                                                        
+        ?NMNNNNNHHQ$OC??7777???7777>>!!:--;.                                                        
+         !NNNNNNHHQ$OCC?777?????777>>!!::-;.                                                        
+           ONNNNHHQ$OOC?77???????777>>!::-;.                                                        
+            .NNNHHQ$$OCC?????CC??777>>!!:-;.                                                        
+             ?NNHHQ$$OOC????CC????777>>!:-;.                                                        
+              QNHQQ$$$OOC???CCC???777>>!:-;.                                                        
+               CHHQ$$$$OC????????7777>>!:-;.                                                        
+                -HQQQ$$OC????????7777>>!:-;                                                         
+                  QQQQQ$OC???????7777>!!:-.                                                         
+                   $QQQ$OC??????7777>>!!:;.                                                         
+                   ;QQQQOCC?????7777>>!!:;.                                                         
+                   .HQQQOOC?????7777>>!:-;.                                                         
+                   >HQQQ$OCCC???7777>>!:-;                                                          
+                   QQQQQ$OOCCC???777>>!:-.                                                          
+                   QHQQ$$$OOOCC??777>>!:-.                                                          
+    .              HHHQQ$$$OOCC??77>>!!--.                                                          
+    .             .HHHQQQ$$$OOC??77>>!:-;.                                                          
+    7   .         .HHHHHQQ$$$OC??77>>!:-.                                                           
+    .   $         .NNHHHHQQ$$OC??77>!!:;.                                                           
+    .   H          NNNHHHQQQ$OOC?77>!!-;.                                                           
+   .    N          NNNHHHHQQ$$OC?77>>!-;.                                                           
+ . .-   N          HNNNHHHQQ$$OCC?77>!-;                                                            
+ ;.;:   H          $NNNNHHHQQ$OCC??7>!-;                                                            
+ O.;C  ;-          CNNNNHHHQQ$OCCC?7>!:;                                                            
+ Q!-C  ;           !NNNNNHHQQ$OOCC?7>!:;.                                                           
+;H?!O               NNNNNHHQQ$OOOCC?7!:-.                                                           
+>H$7C               NNNNNHHQQ$$$OOC?7>:-.                                                           
+?HQC                ONNNHHHQQ$$$$OC?7>:-.                                                           
+OQQO                :NNNHHHQQ$$$$OC?7>!-.                                                           
+QHQH                 NNHHHQQQ$$$$OO??>!-;                                                           
+HHQQ.                QNHHHQQ$$$$$OO??>!-;                                                           
+HHQ$                 7NHHHQ$$$$$$OOC?>!:;.                                                          
+HHQ-                 .HHHQQ$$$$$$OOC?7!:;.                                                          
+HHN                   HHHQ$$$$$$$OCC?7!:-.                                                          
+HH>                   ?HHQ$$OOOOOOCC?7>:-.                                                          
+NN                    ;HHQ$$OOOOOOCC?7>:-.                                                          
+N?                     QQQ$OOOOCCCC??7>:-;                                                          
+M.                     OQQ$OOOCCC???77!:-;.                                                         
+?                      :Q$$OOCC????77>!:-;                                                          
+                        Q$OOCC??7777>!!--.                                                          
+                        O$OCC??77>>>>!:-;.                                                          
+                        !OOCC?77>>>!!::-;.                                                          
+                         $OC??7>>!!:::--;.                                                          
+                         COC?77>!!::---;.                                                           
+                         7OO?7>!!:--;;;..                                                           
+                         ;OC?7>!:--;....                                                            
+                          OC?7>!:-;...                                                              
+                          !C?7!:--;.                                                                
+                           ?7>!:-;;.                                                                
+                           ?7>!:-;..                                                                
+                           :7>!:-;..                                                                
+                           ;7>!:-;.                                                                 
+                            7>!:-;.                                                                 
+                            7>!:-;.                                                                 
+                            !>>!:-;.                                                                
+                            !>>!:-;.                                                                
+                            77>!!:-;                                                                
+                            77>!!:-;.                                                               
+                            77>>!:-;..                                                              
+                            !7>>!!:-;.                                                              
+                            :777>!!:-;                                                              
+                            :777>!!:-;.                                                             
+                            :777>>!::-;                                                             
+                          -!77777>!!:-;..                                                           
+                         $C?77777>>!!:-;.                                                           
+                        7C??77>>>>>!!:-;;.                                                          
+MMMH!           $Q$$C;;7OC???7>>>>>>!:-;;;.                                                         
+MMMMC     ;-    HHHHQ$$OOC???77>>>>>!:--;;..                                                        
+MMMM>    NMC   .HHHHQQ$$OC???777>>>>!::--;;.                                                        
+MMMM!    MMQ   ;HHHQQQ$OOCC??777>>>>!::--;;..                                                       
+MMMM;   :MMN   -HHHHQQ$$OOC???77>>>>!::---;..                                                       
+MMMM    HMMM   -HHHHQ$$OOOCC??777>>>!::---;..                                                       
+MMMM    MMMM   7NNHQQQQ$$$OOOOCC??77>>>:--;;. ...                                                   

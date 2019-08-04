@@ -1,0 +1,100 @@
+NNHHHHHQQQO7-.                                                      ;7HH$$QQQQHHHHHNNNNNNNNNNNNNNMMM
+NHHHHQQQO7-.                                                         .7$$QQHHHHHNNNNNNNNNNMMMMMMMMMM
+HHHHQQ$C:.                                                            .!$QQQHHHHHNNNNNNNNNMMMMMMMMMM
+HHHQQO7:.                                                              .7$QQQHHHHHNNNNNNNNNNMMMMMMMM
+HHQ$C!;                                                                 ;7$QQQHHHHNNNNNNNNNNMMMMMMMM
+HQ$?:.                                                                   ;?QQQHHHHHHNNNNNNNNMMMMMMMM
+QO>;                                                                      :CQQQQHHHHNNNNNNNNNNMMMMMM
+O>;                                                                        !OQQQHHHHHNNNNNNNNNNNMMMM
+>;                                                                         ;>$$QQHHHHHNNNNNNNNNNMMMM
+;                                                                           ;7$$QQQHHHHNNNNNNNNNMMMM
+                                                                             !O$QQQHHHHHNNNNNNNNMMMM
+                                                                             .>O$QQQHHHHNNNNNNNNNMMM
+                                                                              -?$$QQQHHHHNNNNNNNNNNN
+                                                                              .>O$QQQHHHHNNNNNNNNNNN
+                                                                               -?$$QQQHHHHNNNNNNNNNN
+                                                                                !O$$QQHHHHHNNNNNNNNN
+                                                                                -?$$$QQHHHHNNNNNNNNN
+                                                                                .!CO$QQQHHHHNNNNNNNN
+                                                                                 -?O$$QQHHHHHNNNNNNN
+                                                                                 ;!O$$QQQHHHHNNNNNNN
+                                                                                  :CO$$QQHHHHHNNNNNN
+                                                                                  ;7O$$QQQHHHHNNNNNN
+                                                                                  .!CO$$QQHHHHNNNNNN
+                                                                                   -?O$$QQQHHHHNNNNN
+                                                                                   ;7O$$$QQHHHHNNNNN
+                                                                                   .!C$$$QQHHHHNNNNN
+                                                                                   .:?O$$QQHHHHHNNNN
+                                                                                    ;7O$$QQQHHHHHNNN
+                                                                                    ;!C$$$QQHHHHNNNN
+                                                                                    .!C$$$QQQHHHNNNN
+                                                                                    .:?O$$QQQHHHHNNN
+                                                                                     -7OO$$QQHHHHNNN
+                                                                                     ;>CCO$QQHHHHHNN
+                                                                                     .!?CCO$QQHHHHNN
+                                                                                     .:7?CO$QQHHHHNN
+                                                                                     .:!>?O$QQHHHHNN
+                                                                                     .-:!7C$QQHHHHNN
+                                                                                     .;-:>?$QQHHHHHN
+                                                                                      .;-!?$QQHHHHHN
+                                                                                       .;:7OQQHHHHHN
+                                                                                        ;:7OQQQHHHHH
+                                                                                        .:7OQQQQQQQH
+                                                                                        .:7O$$$$$$$Q
+                                                                                        .->COOOCCCO$
+                                                                                        .-!?CCC???C$
+                                                                                         ;!77?7777?O
+                                                                                         ;:>>>>!!>7C
+                                                                                         ;-!!!!:::>?
+                                                                                         .;-::---:>C
+                                                                                         ..;;;;;;->C
+                                                                                          ..... .->O
+                                                                                                .-7O
+                                                                                               .;!?$
+                                                                                              .;:>CQ
+                                                                                              ;-!?$H
+                                                                                            .;-!7OQN
+                                                                                           .;-!7C$HN
+                                                                                          .-:!7C$HHN
+                                                                                         .;:!7COQHNN
+                                                                                        .;:>7COQHNNN
+                                                                                       .-:>7O$QHHNNN
+                                                                                      .-!>?O$QHHHNNN
+                                                                                     .-:7?O$QHHHHNNN
+                                                                                    .-!7CO$HHHHHNNNN
+                                                                                   .;!7COQQHHHHNNNNN
+                                                                                   ;:>C$QQHHHHHNNNNN
+                                                                                  ;:7C$$QQHHHHNNNNNN
+                                                                                 ;->C$$QQHHHHHNNNNNN
+                                                                                .->?O$QQQHHHHHNNNNNN
+                                                                               .-!?O$QQQHHHHHNNNNNNN
+                                                                              .-!7O$$QQQHHHHHNNNNNNN
+                                                                             .;!7C$QQQQHHHHHNNNNNNNN
+                                                                            .;!7C$$QQQQHHHHHNNNNNNNN
+.                                                                           ;!7O$$QQQQHHHHHHNNNNNNNN
+>    ...                                                                   -!7O$$$QQQQHHHHNNNNNNNNNN
+$;    ...                                                                .-!7O$$$QQQQHHHHHNNNNNNNNNN
+$O.    ..                                                              .;->7C$$$QQQQHHHHHNNNNNNNNNNN
+$$C.   .;.                                                            .;:>?O$$$QQQQHHHHHNNNNNNNNNNNN
+Q$$?    ;;;.                                                         .-:>?O$$$QQQQHHHHHNNNNNNNNNNNNN
+QQQ$7   ;--;.                                                       ;-!7CO$Q$QQQQQHHHHHNNNNNNNNNNNNN
+QQQQQ7.  ;::;..                                                  ..;:>?CO$$$QQQQQHHHHHNNNNNNNNNNNNNN
+HQQQQ$7   -::-..                                                .;:!7COO$$$QQQQQHHHHHNNNNNNNNNNNNNNN
+HHQQQ$$>. .-!!:;.                                              .-!7?COO$$$QQQQHHHHHHHNNNNNNNNNNNNNNN
+HHHQQ$$?>;.;:>>>-;..                                         .-!>?COO$$$$QQQQQHHHHHHNNNNNNNNNNNNNNNN
+HHHHQ$OC7!-;-!>7>!:;.                                    ..;-!>?COOO$$$$QQQQHHHHHHNNNNNNNNNNNNNNNNNN
+HHHHQ$OC?>!--:!7??>!-;....                            ..;;-!7?OOOO$$$$$QQQQQHHHHHNNNNNNNNNNNNNNNNNNN
+NHHHHQOC?>!:::!7?CC7>!:-;.......                  ...;;:!>7?COOOO$$$$QQQQQHHHHHHHNNNNNNNNNNNNNNNNNNN
+NNHHHQ$C?7>!!!>7?COCC?7>!:-;;;;..................;;-:!>7?CCOO$$$$$$$QQQQQHHHHHHNNNNNNNNNNNNNNNNNNNNN
+NNNHHQ$C?7>!!!>7?COOOOCC?77>!::---;;;;;;;;;;---::!>>7?CCOOOO$$$$$$$QQQQHHHHHHHHNNNNNNNNNNNNNNNNNNNMM
+NNNNHQ$C?7>!!>>7?OO$$OOOCCC??77>>!!!!::!!!!!!>>77??CCCOOOO$$$$$$$QQQQQHHHHHHHHNNNNNNNNNNNNNNNNNNNNMM
+NNNNHQ$C?7>!>>7?COO$$$$$OOOOOCCC????7777???????CCCOOOOOOO$$$$QQQQQQQQHHHHHHHHNNNNNNNNNNNNNNNNNNNNNMM
+NNNNNQ$O?7>>>>7?CO$$$$$$$$$$OOOOOOOCOOOOOOOOOOOOOOOOO$$$$$$$QQQQQQQHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNMM
+NNNNNH$O?7>>>>7?CO$QQQQ$$$$$$$$$OOOOOOOOOOOOOOOOO$$$$$$$$QQQQQQQHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNMMMM
+NNNNNHQOC7>>>>7?C$$QQQQQQQ$$$$$$$$$$$$$$$$$$$$$$$$$$$QQQQQQQQQHHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNNMMMM
+NNNNNHQOC7>>>>7?O$QQHQQQQQQQQQQ$$$$$$$$$$$$$$$$$$QQQQQQQQQQQHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMM
+NNNNNNH$C?>>>>7?O$QHHHHHQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMM
+MNNNNNHQO?7!!!>7C$QHHHHHHHHHQQQQQQQQQQQQQQQQQQQQQQQQHHHHHHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMM
+MMMNNNNH$C7!::-!?OQHHHHHHHHHHHHHQQQQQQQQQQQQQQQQHHHHHHHHHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMM
+MMMNNNNNQO?>:-;;->C$HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMM
+MMMMMMNNHQO?>!:::!7COQHNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNNNNNNNMMNNNNMMMMMMMMMMMMMMMMMMMMMMMM

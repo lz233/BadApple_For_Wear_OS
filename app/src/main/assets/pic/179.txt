@@ -1,0 +1,100 @@
+     ;:>7??CCCCOOO$$$QHHNNNQCCCCOOOO$$$$$$OOOCC??7>!:-;                                             
+     .:>>7???CCCCCCOO$$$$$QO??CCCOO$QQQQQQ$$OOCC?77>!:-.                                            
+     .-!>>77??????CCCOOOOOOO???CCCO$QQHHHHQQ$$OCC?77>!::-;;.                                        
+     .-:!>>77777??????CCCCCC????CCO$$QQHHHHQQ$$OOC?77>7>>!:;                                        
+      ;-!!>>>777777777????C?????COO$$$$QQQQQQQ$$OOCCCCC?7>:-.                                       
+      ;-:!!!>>>>>>77777777??777?CCOOO$$$$$$$$$Q$$OOO$OC?7>!:;                                       
+      .;-::!!!!>>>>>>>>>>>77>>>7??CCCCOOOOOOCCO$$QQQ$$OC?7>!-.                                      
+       ;--::!!!!!!!!!!!!!>>>!!>7777????CCCCC?CCOQHHHQ$OCC7>!:;                                      
+       .;--:::::!!!!!!!!!!!!!!>>>>777777777?C$HNMMNHH$$OC?7>!-.                                     
+       ..;;---::::::::::::::!!!!!!>>>>>>>>7CQMMMMMNNHQ$OOC?>!:;.                                    
+        ..;;---------------::::::!!!!!!!!>?QNMMMMMMNHHQ$OC?7>!-.                                    
+         ..;;;;;-----;;;;;-------:::::::!?QMMMMMMMMMNHQ$$OC?>!:;                                    
+          ...;;;;;;;;;;.;;;;;;;;--------7QNMMMMMMMMMNHHQ$OC?7>!-.                                   
+           ...................;;;;;;;;;>$NMMMMMMMMMMMNHHQ$OC?7!:;.                                  
+              ........     ........  .!$MMMMMMMMMMMMMMNHQ$OC?7>!-.                                  
+                                     !$MMMMMMMMMMMMMMMMNHQ$OC?7>:;.                                 
+                                    -$MMMMMMMMMMMMMMMMMNHQ$OC?7>!-.                                 
+                                   ;$MMMMMMMMMMMMMMMMMMMNHQ$OC?7>:;                                 
+                                  .CMMMMMMMMMMMMMMMMMMMMNNHQ$OC7>!-.                                
+                                 .CMMMMMMMMMMMMMMMMMMMMMMNHQ$OC?7>:;                                
+                                .?MMMMMMMMMMMMMMMMMMMMMMMMHHQ$OC7>!-.                              .
+                               ;7MMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC?7>:;                              ;
+                              ;7HMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC?>!-.                             -
+                            .->$MMMMMMMMMMMMMMMMMMMMMMMMMMMNNH$OC?7>:;                             :
+                           .:7OMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC?>!-.                            !
+                          ;!7ONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$O?7>:-                           .>
+                        .-!?ONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHH$OC?>!:.                          .7
+                       ;:>?OHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC7>!-                          .7
+                     .;:>?$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNH$OC?>!:.                         .7
+                    ;-!7?OHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC7>!-                          !
+                  .;:!7C$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQOC?7!:.                         :
+                .;-:>7C$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMHQ$OC7>!-                        .:
+               .;-!>7C$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQOC?7>:;                    .--->
+             .;-:!>?C$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNH$OC?7>:;                   :>>>?
+            .;-:!7?C$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC?7>:;                  !COOO
+          .;-:!>7?O$HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHHQ$OC?>!;                 :QHHH
+        ..;-:!>7?O$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHH$OO?7!-                :HMMM
+.....  ..;-:!>7CO$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$OC7>-.              !NMMM
+...;...;-:!!7?CO$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNHQ$O?>:.            ;7HMMM
+;;;-;.;-:!>7?CO$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNH$OC7!;           -OHMMM
+;;-----:!>7?CO$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNQ$C?>-.....     :$MMMM
+;---;-:!>7?COQHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNQQQQ$OOC7:;   :QMMMM
+----;-!>7?COQHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNQO?!. !HMMMM
+----;-!7?CO$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNQC7:;7NMMMM
+---;;:>7C$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNQC7!!CNMMMM
+---;;:>?O$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN$C7!>$NMMMM
+---;;:>?OQNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMH$?>:!OMMMMM
+---;;:>?OQNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMQO7!-;?QNMMM
+---;-!7?OQNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN$7:;.:?OHNM
+---;-!7?OQHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMQ7; ;:7?$N
+---;-!7CO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMH7. ;:!7$
+---;-!7CO$$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNQ$$HMMMMMMMMMMMMMMMMMMMN7. ;->C
+---;-!7?CO$$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMH?>>7?$NMMMMMMMMMMMMMMMMMMN7.  .!
+---;-!>7?COO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMH>-;-:!7ONMMMMMMMMMMMMMMMMMMM7.  .
+---;-!>>7?COO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN7.  ..-!?QMMMMMMMMMMMMMMMMMMMM7  .
+---;-:!>>7?CCO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO;      ->ONMMMMMMMMMMMMMMMMMMMN! .
+--;;--:!>>7??CO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM>       .!ONMMMMMMMMMMMMMMMMMMMMH:;
+;;;;;--:!!>7??CO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMQ-       ;CNMMMHHMMMMMMMMMMMMMMMMMQ!
+.....;--:!!>77?CO$QQNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMC.      -CHHC?>-:7HMMMMMMMMMMMMMMMM$
+..  ..;;-::!>>7?COO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM>      ;7OH7-     :$MMMMMMMMMMMMMMMM
+.     .;;--:!>>7?CCO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN-      ;!Q$-       .?NMMMMMMMMMMMMMM
+       ..;;-:!!>77?CO$QHNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMQ.      ;OH>          >NMMMMMMMMMMMMM
+         .;;-::!>>7?CO$$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMC       !H?.          !QMMMMMMMMMMMMM
+          ..;;-::!>7?COO$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM>       77.          .?HMMMMMMMMMMMMM
+            .;;--:!>77?CO$QNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMH:       -.           -CNMMMMMMMMMMMMM
+             ..;;-:!!>7?CO$QHMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM$-                    !QMMMMMMMMMMMMMM
+               ..;-::!>77CO$$HNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNC;                   ;7HMMMMMMMMMMMMMM
+                 .;;-:!!>7?CO$QNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMQ7;                   :CNMMMMMMMMMMMMMM
+                   .;--:!>7?CO$QHMMMMMMMMMMMMMMMMMMMMMMMMMMMN$>.                  .>$MMMMMMMMMMMMMMM
+                    .;;-:!>>7?C$$HNMMMMMMMMMMMMMMMMMMMMMMMMMHC!.                  :CHMMMMMMMMMMMMMMM
+                      .;;-:!>7?CO$QNMMMMMMMMMMMMMMMMMMMMMMMN$?:.                 .>$MMMMMMMMMMMMMMMM
+                        .;-:!!>7?O$QHNMMMMMMMMMMMMMMMMMMMMMQO7-                  :CHMMMMMMMMMMMMMMMM
+                          .;-:!>7?CO$QNMMMMMMMMMMMMMMMMMMMH$?>;                  !$MMMMMMMMMMMMMMMMM
+                           .;;-:!>7?COQHNMMMMMMMMMMMMMMMMNQC7:;                 .?HMMMMMMMMMMMMMMMMM
+                             .;-::!>7CO$QHNMMMMMMMMMMMMMNQO?>:.                 -ONMMMMMMMMMMMMMMMMM
+                               .;-:!>7?CO$QHNMMMMMMMMMNHQOC7!-.                 !QMMMMMMMMMMMMMMMMMM
+                                 .;-:!>7?CO$$QHNNNNNNHHQOC7>:;                  >HMMMMMMMMMMMMMMMMMM
+                                   .;-:!>7??CO$$QQQQQ$$OC?>!-.                 ;CNMMMMMMMMMMMMMMMMMM
+                                     .;-:!!>7?CCOOOOOOC??>!:;                  :OMMMMMMMMMMMMMMMMMMM
+                                       .;;-:!>>77?????77>!:-.                 .>QMMMMMMMMMMMMMMMMMMM
+                                         ..;-::!!>>>>>>!:--.                  ;CNMMMMMMMMMMMMMMMMMMM
+                                             ;;--::::::--;.                   !$MMMMMMMMMMMMMMMMMMMM
+                                                ..;;;;;;..                   .7HMMMMMMMMMMMMMMMMMMMM
+                                                                             -CNMMMMMMMMMMMMMMMMMMMM
+                                                                             !$MMMMMMMMMMMMMMMMMMMMM
+                                                                            .7HMMMMMMMMMMMMMMMMMMMMM
+                                                                            ;CNMMMMMMMMMMMMMMMMMMMMM
+                                                                            :$MMMMMMMMMMMMMMMMMMMMMM
+                                                                            >HMMMMMMMMMMMMMMMMMMMMMM
+                                                                            7NMMMMMMMMMMMMMMMMMMMMMM
+                                                                           .?MMMMMMMMMMMMMMMMMMMMMMM
+                                                                           .CMMMMMMMMMMMMMMMMMMMMMMM
+                                                                           .OMMMMMMMMMMMMMMMMMMMMMMM
+                                                                           .OMMMMMMMMMMMMMMMMMMMMMMM
+                                                                           .OMMMMMMMMMMMMMMMMMMMMMMM
+                                                                            OMMMMMMMMMMMMMMMMMMMMMMM
+                                                                            CMMMMMMMMMMMMMMMMMMMMMMM
+                                                                            7MMMMMMMMMMMMMMMMMMMMMMM
+                                                                            >MMMMMMMMMMMMMMMMMMMMMMM
+                                                                            :MMMMMMMMMMMMMMMMMMMMMMM

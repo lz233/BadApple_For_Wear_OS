@@ -1,0 +1,100 @@
+OOCCC?7>-;.                                                                                         
+OOCC??7>:;                                                                                          
+OOCC??7>:;                                                                                          
+OOCC??7>:;                                                                                          
+OOCCC?7>:;                                                                                          
+OOCCC?7>:;                                                                                          
+OOCCC?7>:;                                                                                          
+OOCCC?7>:;                                                                                          
+OOCCC?7>:;                                                                                          
+OOCCC?7>!;.                                                                                         
+OOCCC??>!-.                                                                                         
+OOCCC??7!-.                                                                                         
+OOCCC??7!-.                                                                                         
+OOOCC??7>:;                                                                                         
+OOOCCC?7>:;                                                                                         
+OOOCCC?7>:;.                                                                                        
+OOOCCC?7>!-.                                                                                        
+OOOCCC?7>!-.                                                                                        
+OOOCCC??7!:;                                                                                        
+OOOCCC??7>:;                                                                                        
+OOOCCC??7>:;                                                                                        
+$OOOCC??7>!-.                                                                                       
+$OOOCCC?7>!-.                                                                                       
+$OOOCCC??7>:.                                                                                       
+$OOOCCC??7>:-.                                                                                      
+$OOOOCC??7>!-.                                                                                      
+$$OOOCC??77!-.                                                                                      
+$$OOOCCC?77>:;                                                                                      
+$$OOOCCC??7>!-.                                                                                     
+$$OOOOCCC?7>!-.                                                                                     
+$$$OOOCCC??7>:;                                                                                     
+$$$OOOCCC??7>!-.                                                                                    
+$$$OOOCCC??7>!-.                                                                                    
+$$$OOOOCC??77>:;.                                                                                   
+$$$$OOOCCC??7>!-.                                                                                   
+$$$$OOOCCC??77!:;                                                                                   
+Q$$$OOOCCC???7>:;.                                                                                  
+Q$$$$OOOCCC??7>!-.                                                                                  
+QQ$$$OOOCCC??77>:;.                                                                                 
+QQ$$$OOOOCC???7>!-.                                                                                 
+QQ$$$$OOOCCC??7>!:;                                                                                 
+QQQ$$$OOOCCC??77>:-.                                                                                
+QQQ$$$OOOCCC???7>!-;                                                                                
+QQQ$$$$OOOCCC??77!:;.                                                                               
+QQQQ$$$OOOCCC??77>!:.                                                                               
+QQQQ$$$OOOOCCC??77>:;.                                                                              
+QQQQQ$$$OOOCCC??77>!-;                                                                              
+HQQQQ$$$OOOCCC???77>!;.                                                                             
+HQQQQ$$$$OOOCCC??77>!:;.                                                                            
+HHQQQ$$$$OOOCCC???77>:-.                                                                            
+HHQQQQ$$$OOOOCCC??77>!:;.                                                                           
+HHHQQQ$$$$OOOCCC???77>!-.                                                                           
+HHHQQQ$$$$OOOOCCC??77>!:;.                                                                          
+HHHQQQQ$$$$OOOCCCC??77>!-;.                                                                         
+HHHQQQQ$$$$OOOOCCC??77>>:-.                                                                         
+HHHHQQQQ$$$$OOOCCC???77>!:;.                                                                        
+HHHHQQQQ$$$$OOOOCCC??777>!:;.                                                                       
+HHHHHQQQQ$$$$OOOCCC???77>>!-..                                                                      
+HHHHHQQQQ$$$$OOOOCCC???77>!:-.                                                                      
+NHHHHQQQQQ$$$$OOOCCCC??777>!-;.                                                                     
+NHHHHHQQQQQ$$$$OOOCCC???77>>!-;.                                                                    
+NNHHHHHQQQQ$$$$OOOOCCC???77>!:-.                                                                    
+NNHHHHHQQQQQ$$$OOOOCCC???77>>!:;.                                                                   
+Q7CHHHHHQQQQ$$$$OOOOCCC??777>>!:;.                                                                  
+ .>HHHHHHQQQQ$$$$OOOCCC???77>>>!-;.                                                                 
+ .?HHHHHHQQQQQ$$$OOOOCCC??777>>!!-;.                                                                
+ ;QHHHHHHHQQQQ$$$$OOOOCC???777>>>:-;.                                                               
+ 7HNHHHHHHQQQQQ$$$$OOOCCC??77777>!:-;.                                                              
+.QNNNHHHHHHQQQQ$$$$OOOOCCC????777>!!-;.                                                             
+7NNNNNHHHHHHQQQQ$$$$OOOOCCC????777>>:-;.                                                            
+HNNNNNNHHHHHHQQQQ$$$$OOOOCCC????777>!:-;.                                                           
+NNNNNNNHHHHHHQQQQ$$$$$OOOOCCCC???777>!:-;.                                                          
+NNNNNNNN$?CHHHQQQQ$$$$$OOOOCCCC???777>!:-;.                                                         
+NNNNNNH- .>HHHHQQQQ$$$$OOOOCCCCC???777>!!-;.                                                        
+NNNNN?    OHHHHQQQQQ$$$$OOOOOCCCC???777>>!-;.                                                       
+NNNN:    >NHHHHHQQQQQ$$$$OOOOCCCCC???777>>!:;..                                                     
+NNH     -HNHHHHHHQQQQ$$$$$OOOOOCCCC???777>>!:-..                                                    
+NQ     .HNNNHHHHHHQQQQQ$$$$OOOOOCCCC???777>>!:-;.                                                   
+O     .QNNNNHHHHHHHQQQQ$$$$$OOOOOCCCC???777>>!:-;.                                                  
+     .HNNNNNNHHHHHHHQQQQQ$$$$OOOOOCCCCC???777>!:-;..                                                
+    -NNNNNNNNNHHHHHHHQQQQQ$$$$$OOOOCCCC????777>>!:-;.                                               
+   -NNNNNNNNNNNHHHHHHHQQQQQ$$$$OOOOOOCCCC???777>>!:-;..                                             
+  -NNNNNNNNNNNNHHHHHHHQQQQQQ$$$$$OOOOOCCCC???777>>!!:-..                                            
+ .QHNNNNNNNNNNNNNHHHHHHQQQQQQ$$$$$OOOOOCCCC????7777>!:-;.                                           
+ OHHNNNNHQQQHHNNNHHHHHHHQQQQQQ$$$$$OOOOOCCCCC???7777>!!--;.                                         
+?NHHHC7--;-:!?QNNNHHHHHHHQQQQQQ$$$$$OOOOOCCCCC????777>>!:--;.                                       
+NQ?-         !HNNNNHHHHHHHQQQQQQ$$$$$OOOOOOCCCC?????777>>!:-;..                                     
+>           ;HNNNNNNHHHHHHHQQQQQQ$$$$$OOOOOOCCCCC????7777>!!:-;..                                   
+           ;NNNNNNNNNHHHHHHHHQQQQQ$$$$$$OOOOOOCCCCC????777>>!!:-;..                                 
+         ;QMNNNNNNNNNNHHHHHHHHQQQQQ$$$$$$$OOOOOCCCCCC????777>>!::-;.                                
+     ;>HNMMMMMMNNNNNNNNHHHHHHHHQQQQQQ$$$$$$OOOOOOCCCCC?????777>>!::-;..                             
+  .?NMMMMMMMMMMNNNNNNNNNHHHHHHHHQQQQQQQ$$$$$$OOOOOOCCCCC????7777>>!::-;...                          
+.CMMMMMMMMMMMMMMMNNNNNNNNHHHHHHHHHQQQQQQ$$$$$$OOOOOOCCCCCC?????777>>!!:-;;..                        
+MMMMMMMMMMMMMMMMMNNNNNNNNNNHHHHHHHHQQQQQQQ$$$$$$OOOOOOCCCCCC????7777>>!!::-;;..                     
+MMMMMMMMMMMMMMMMMMNNNNNNNNNNNHHHHHHHHQQQQQQ$$$$$$$OOOOOCCCCCCC?????7777>>!!::-;;..                  
+MMMMMMMMMMMMMMMMMMMNNNNNNNNNNNHHHHHHHHQQQQQQQ$$$$$$OOOOOOOCCCCC??????7777>>!!:::-;;...              
+MMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNHHHHHHHHQQQQQQQ$$$$$$$OOOOOOCCCCCCC?????7777>>>!!!::-;;;..           
+MMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNHHHHHHHHQQQQQQ$$$$$$$$OOOOOOCCCCCCC???????7777>>!!!!::--;;....     
+MMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNHHHHHHHHQQQQQQQ$$$$$$$$OOOOOOCCCCCCC???????77777>>>>!!!::---;;;;..
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNHHHHHHHQQQQQ$$$$$$$$$OOOOOOOOOCCCCCCCC???????7>>>>>>!!!!:::--
