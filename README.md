@@ -1,4 +1,4 @@
-# BadApple_For_Wear_OS
+# BadApple For Wear OS
 
 [![license](https://img.shields.io/badge/license-%20Apache--2.0-blue.svg)](https://github.com/lz233/BadApple_For_Wear_OS/blob/master/LICENSE)
 [![platform](https://img.shields.io/badge/flatpofm-Wear%20OS-yellow.svg)](https://wearos.google.com)
